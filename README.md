@@ -11,7 +11,7 @@ git clone https://github.com/xurape/TP2-29446-29142.git silken-valley
 
 2. Entrar na pasta do jogo
 ```bash
-cd silken-valley
+cd silken-valley/src
 ```
 
 3. Instalar as dependências
